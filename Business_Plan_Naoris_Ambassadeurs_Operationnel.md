@@ -77,10 +77,14 @@ L'essentiel du budget va aux ambassadeurs. Les événements sont secondaires et 
 
 **Objectif :** Poser les fondations du programme
 
+**Infrastructure existante :**
+- ✅ Discord projet Naoris (global) avec canal #france
+- ✅ Telegram projet Naoris (global)
+- ✅ Discord ambassadeurs (déjà créé)
+
 | Action | Responsable | Deadline | Livrable |
 |--------|-------------|----------|----------|
-| Créer serveur Discord France | Équipe | J+3 | Serveur avec canaux structurés |
-| Créer groupe Telegram FR | Équipe | J+3 | Groupe + canal annonces |
+| Structurer le Discord ambassadeurs | Équipe | J+3 | Canaux organisés (annonces, ressources, discussion, support) |
 | Rédiger guide ambassadeur | Équipe | J+7 | PDF 10 pages max |
 | Créer formulaire candidature | Équipe | J+5 | Typeform/Google Form |
 | Définir charte graphique FR | Équipe | J+7 | Kit Canva + guidelines |
@@ -146,10 +150,10 @@ L'essentiel du budget va aux ambassadeurs. Les événements sont secondaires et 
 
 | Métrique | Objectif |
 |----------|----------|
-| Membres Discord FR | 1 500 |
-| Membres Telegram FR | 1 000 |
-| Messages/jour Discord | 100+ |
-| Participants AMA | 50+ |
+| Nouveaux membres Discord global (via ambassadeurs FR) | +1 500 |
+| Nouveaux membres Telegram global (via ambassadeurs FR) | +1 000 |
+| Messages/jour canal #france Discord | 50+ |
+| Participants AMA francophone | 50+ |
 
 #### Actions Clés
 
@@ -189,8 +193,8 @@ L'essentiel du budget va aux ambassadeurs. Les événements sont secondaires et 
 
 | Métrique | Objectif |
 |----------|----------|
-| Membres Discord FR | 5 000 |
-| Membres Telegram FR | 3 500 |
+| Nouveaux membres Discord global (via FR) | +5 000 |
+| Nouveaux membres Telegram global (via FR) | +3 500 |
 | Ambassadeurs actifs | 40-45 |
 
 #### Actions Clés
@@ -219,8 +223,8 @@ L'essentiel du budget va aux ambassadeurs. Les événements sont secondaires et 
 
 | Métrique | Objectif |
 |----------|----------|
-| Membres Discord FR | 12 000 |
-| Membres Telegram FR | 8 000 |
+| Nouveaux membres Discord global (via FR) | +12 000 |
+| Nouveaux membres Telegram global (via FR) | +8 000 |
 | Ambassadeurs actifs | 50 |
 | Wallets français | 3 000 |
 
@@ -242,8 +246,8 @@ L'essentiel du budget va aux ambassadeurs. Les événements sont secondaires et 
 | Métrique | Objectif |
 |----------|----------|
 | Impressions mensuelles | 5 000 000+ |
-| Communauté Discord FR | 25 000 |
-| Communauté Telegram FR | 15 000 |
+| Nouveaux membres Discord global (via FR) | +25 000 |
+| Nouveaux membres Telegram global (via FR) | +15 000 |
 | Ambassadeurs actifs | 60-70 |
 | Wallets français | 5 000+ |
 
@@ -260,8 +264,8 @@ L'essentiel du budget va aux ambassadeurs. Les événements sont secondaires et 
 | Catégorie | Métriques |
 |-----------|-----------|
 | Twitter/X | Impressions, engagements, followers, mentions |
-| Discord | Nouveaux membres, messages/jour, rétention |
-| Telegram | Nouveaux membres, messages/jour |
+| Discord global | Nouveaux membres (attribués aux ambassadeurs FR), activité canal #france |
+| Telegram global | Nouveaux membres (attribués aux ambassadeurs FR) |
 | Ambassadeurs | Posts publiés, engagement moyen, activité |
 
 ### 3.2 Calcul du Score Ambassadeur
@@ -374,7 +378,9 @@ L'essentiel du budget va aux ambassadeurs. Les événements sont secondaires et 
 |-------|-------|------|
 | Notion | Gestion programme, docs, tracking | 0€ |
 | Google Sheets | Suivi KPIs, scores, paiements | 0€ |
-| Discord | Communauté + coordination ambassadeurs | 0€ |
+| Discord ambassadeurs | Coordination équipe (existant) | 0€ |
+| Discord global Naoris | Communauté (existant) | 0€ |
+| Telegram global Naoris | Communauté (existant) | 0€ |
 | Canva Pro | Création visuels | 12€/mois |
 | TweetDeck/Buffer | Planification posts | 0-15€/mois |
 | Typeform | Candidatures | 0€ (gratuit) |
@@ -402,9 +408,9 @@ L'essentiel du budget va aux ambassadeurs. Les événements sont secondaires et 
 ### 6.1 Onboarding Nouvel Ambassadeur
 
 **Jour 1 :**
-- Accès Discord (canal ambassadeurs privé)
+- Accès Discord ambassadeurs (rôle attribué)
 - Envoi guide ambassadeur PDF
-- Ajout au groupe WhatsApp/Telegram coordination
+- Ajout au groupe WhatsApp/Telegram coordination (si existant)
 
 **Jour 2 :**
 - Call de bienvenue (15 min) ou message vocal
@@ -442,15 +448,15 @@ L'essentiel du budget va aux ambassadeurs. Les événements sont secondaires et 
 
 ## 7. Récapitulatif Timeline
 
-| Période | Phase | Ambassadeurs | Impressions/mois | Communauté Discord |
-|---------|-------|--------------|------------------|-------------------|
-| S1-S2 | Structuration | 0 | - | Setup |
-| S3-S4 | Recrutement V1 | 20-30 | - | 500 |
-| M1 | Lancement | 25-35 | 500K | 1 500 |
-| M2 | Croissance | 35-40 | 1M | 3 000 |
-| M3 | Croissance | 40-45 | 1.8M | 5 000 |
-| M4-M6 | Consolidation | 50 | 3M | 12 000 |
-| M7-M12 | Scale | 60-70 | 5M+ | 25 000 |
+| Période | Phase | Ambassadeurs | Impressions/mois | Nouveaux membres Discord (via FR) |
+|---------|-------|--------------|------------------|----------------------------------|
+| S1-S2 | Structuration | 0 | - | - |
+| S3-S4 | Recrutement V1 | 20-30 | - | +500 |
+| M1 | Lancement | 25-35 | 500K | +1 500 |
+| M2 | Croissance | 35-40 | 1M | +3 000 |
+| M3 | Croissance | 40-45 | 1.8M | +5 000 |
+| M4-M6 | Consolidation | 50 | 3M | +12 000 |
+| M7-M12 | Scale | 60-70 | 5M+ | +25 000 |
 
 ---
 
@@ -458,8 +464,8 @@ L'essentiel du budget va aux ambassadeurs. Les événements sont secondaires et 
 
 ### Semaine 1
 - [ ] Valider budget mensuel définitif
-- [ ] Créer serveur Discord FR
-- [ ] Créer groupe Telegram FR
+- [x] Discord ambassadeurs créé
+- [ ] Structurer canaux Discord ambassadeurs (annonces, ressources, missions, support)
 - [ ] Créer formulaire candidature
 - [ ] Contacter KOL existants pour formaliser rôle Lead
 
