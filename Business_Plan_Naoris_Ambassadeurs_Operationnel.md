@@ -5,7 +5,13 @@
 ---
 
 **Date :** Février 2026  
-**Budget mensuel :** 7 000 - 10 000€
+**Budget mensuel France :** 7 000 - 10 000€
+
+**Contexte :** Ce document concerne la stratégie France. Le programme ambassadeur Naoris est déployé en parallèle sur 4 pays :
+- 🇫🇷 France (ce document)
+- 🇪🇸 Espagne
+- 🇳🇬 Nigéria
+- 🇺🇸 USA
 
 ---
 
@@ -78,17 +84,17 @@ L'essentiel du budget va aux ambassadeurs. Les événements sont secondaires et 
 **Objectif :** Poser les fondations du programme
 
 **Infrastructure existante :**
-- ✅ Discord projet Naoris (global) avec canal #france
+- ✅ Discord projet Naoris (global) avec canaux par pays (#france, #spain, #nigeria, #usa)
 - ✅ Telegram projet Naoris (global)
-- ✅ Discord ambassadeurs (déjà créé)
+- ✅ Discord ambassadeurs (multi-pays)
 
 | Action | Responsable | Deadline | Livrable |
 |--------|-------------|----------|----------|
-| Structurer le Discord ambassadeurs | Équipe | J+3 | Canaux organisés (annonces, ressources, discussion, support) |
-| Rédiger guide ambassadeur | Équipe | J+7 | PDF 10 pages max |
-| Créer formulaire candidature | Équipe | J+5 | Typeform/Google Form |
-| Définir charte graphique FR | Équipe | J+7 | Kit Canva + guidelines |
-| Formaliser contrats KOL existants | Équipe | J+10 | Accords signés |
+| Structurer les canaux FR sur Discord ambassadeurs | Équipe FR | J+3 | Canaux organisés (annonces-fr, ressources-fr, missions-fr) |
+| Rédiger guide ambassadeur FR | Équipe FR | J+7 | PDF 10 pages max (adapté au marché français) |
+| Créer formulaire candidature FR | Équipe FR | J+5 | Typeform/Google Form en français |
+| Définir charte graphique | Équipe globale | J+7 | Kit Canva + guidelines (commun à tous les pays) |
+| Formaliser contrats KOL existants FR | Équipe FR | J+10 | Accords signés |
 
 **Budget Phase 1 :** ~500€ (outils, setup)
 
@@ -378,14 +384,14 @@ L'essentiel du budget va aux ambassadeurs. Les événements sont secondaires et 
 |-------|-------|------|
 | Notion | Gestion programme, docs, tracking | 0€ |
 | Google Sheets | Suivi KPIs, scores, paiements | 0€ |
-| Discord ambassadeurs | Coordination équipe (existant) | 0€ |
-| Discord global Naoris | Communauté (existant) | 0€ |
+| Discord ambassadeurs | Coordination équipe multi-pays (existant) | 0€ |
+| Discord global Naoris | Communauté avec canaux par pays (existant) | 0€ |
 | Telegram global Naoris | Communauté (existant) | 0€ |
-| Canva Pro | Création visuels | 12€/mois |
+| Canva Pro | Création visuels (partagé entre pays) | 12€/mois |
 | TweetDeck/Buffer | Planification posts | 0-15€/mois |
 | Typeform | Candidatures | 0€ (gratuit) |
 
-**Total outils : ~30€/mois**
+**Total outils France : ~30€/mois**
 
 ### 5.2 Template Suivi Ambassadeur (Google Sheets)
 
@@ -460,20 +466,21 @@ L'essentiel du budget va aux ambassadeurs. Les événements sont secondaires et 
 
 ---
 
-## 8. Checklist de Lancement
+## 8. Checklist de Lancement (France)
 
 ### Semaine 1
-- [ ] Valider budget mensuel définitif
-- [x] Discord ambassadeurs créé
-- [ ] Structurer canaux Discord ambassadeurs (annonces, ressources, missions, support)
-- [ ] Créer formulaire candidature
-- [ ] Contacter KOL existants pour formaliser rôle Lead
+- [ ] Valider budget mensuel définitif (France)
+- [x] Discord ambassadeurs créé (multi-pays)
+- [ ] Structurer canaux FR sur Discord ambassadeurs
+- [ ] Créer formulaire candidature FR
+- [ ] Contacter KOL existants FR pour formaliser rôle Lead
+- [ ] Synchronisation avec équipes Espagne, Nigéria, USA sur planning
 
 ### Semaine 2
-- [ ] Finaliser guide ambassadeur
-- [ ] Créer kit graphique (templates Canva)
-- [ ] Mettre en place Google Sheets de suivi
-- [ ] Lancer annonce recrutement
+- [ ] Finaliser guide ambassadeur FR
+- [ ] Créer kit graphique (templates Canva - partagé avec autres pays)
+- [ ] Mettre en place Google Sheets de suivi France
+- [ ] Lancer annonce recrutement France
 
 ### Semaine 3
 - [ ] Sélectionner candidats vague 1
@@ -484,6 +491,34 @@ L'essentiel du budget va aux ambassadeurs. Les événements sont secondaires et 
 - [ ] Tous ambassadeurs V1 actifs
 - [ ] Premier Twitter Space FR
 - [ ] Mesurer premiers KPIs
+
+---
+
+## 9. Synergies Multi-Pays
+
+### Ressources Partagées
+
+| Ressource | Gestion |
+|-----------|---------|
+| Charte graphique / Kit Canva | Globale (tous pays) |
+| Visuels génériques Naoris | Globale |
+| Annonces projet (traduits) | Globale → adaptation locale |
+| Discord ambassadeurs | Multi-pays avec canaux par langue |
+| Système de scoring | Commun (adapté par pays si besoin) |
+
+### Coordination
+
+- Call de sync hebdo entre leads de chaque pays (optionnel)
+- Partage des best practices entre équipes
+- Campagnes coordonnées lors d'annonces majeures (raids multi-pays)
+- KPIs consolidés au niveau global + détail par pays
+
+### Spécificités France
+
+- Langue : Français
+- Événements cibles : Proof of Talk, VivaTech, Surfin' Bitcoin
+- Fuseaux horaires : CET (UTC+1)
+- Particularités marché : Fort intérêt institutionnel, régulation PSAN, communauté crypto mature
 
 ---
 
