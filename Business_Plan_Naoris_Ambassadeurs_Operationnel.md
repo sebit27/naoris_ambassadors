@@ -1,525 +1,390 @@
 # Business Plan
-## Programme Ambassadeur Naoris Protocol - France 2026
-### Version Opérationnelle - Focus Rémunération & KPIs
+## Programme Ambassadeur Naoris Protocol - Global 2026
+### France | Espagne | Nigéria | USA
 
 ---
 
 **Date :** Février 2026  
-**Budget mensuel France :** 7 000 - 10 000€
-
-**Contexte :** Ce document concerne la stratégie France. Le programme ambassadeur Naoris est déployé en parallèle sur 4 pays :
-- 🇫🇷 France (ce document)
-- 🇪🇸 Espagne
-- 🇳🇬 Nigéria
-- 🇺🇸 USA
+**Budget mensuel global :** 7 000 - 10 000€  
+**Ambassadeurs :** 3-5 par pays (12-20 total)
 
 ---
 
-## 1. Répartition Budgétaire
+## 1. Vue d'Ensemble du Programme
 
-### Philosophie : Investir dans les Humains d'Abord
+### 1.1 Pays Couverts
 
-L'essentiel du budget va aux ambassadeurs. Les événements sont secondaires et financés uniquement si le budget le permet après avoir couvert les "salaires".
+| Pays | Priorité | Langue | Ambassadeurs |
+|------|----------|--------|--------------|
+| 🇫🇷 France | 1 (Haute) | Français | 3-5 |
+| 🇪🇸 Espagne | 2 (Haute) | Espagnol | 3-5 |
+| 🇳🇬 Nigéria | 3 (Moyenne) | Anglais | 3-5 |
+| 🇺🇸 USA | 4 (Moyenne) | Anglais | 3-5 |
+| **TOTAL** | - | - | **12-20** |
 
-### 1.1 Répartition Mensuelle
+### 1.2 Infrastructure Existante
 
-| Poste | Budget 7K | Budget 8,5K | Budget 10K |
-|-------|-----------|-------------|------------|
-| **Rémunération ambassadeurs** | 5 600€ (80%) | 6 800€ (80%) | 8 000€ (80%) |
-| Outils & logiciels | 200€ | 250€ | 300€ |
-| Contenu graphique (freelance) | 400€ | 500€ | 600€ |
-| Goodies/Merchandise | 300€ | 400€ | 500€ |
-| Réserve événements/imprévus | 500€ | 550€ | 600€ |
-| **TOTAL** | **7 000€** | **8 500€** | **10 000€** |
-
-### 1.2 Grille de Rémunération Ambassadeurs
-
-#### Niveau Lead (5-8 personnes)
-
-| Profil | Rémunération/mois | Attendus |
-|--------|-------------------|----------|
-| Lead Senior (10K+ followers) | 600 - 800€ | 2 vidéos + 8 threads/mois |
-| Lead Standard (5K+ followers) | 400 - 600€ | 1 vidéo + 6 threads/mois |
-| Lead Junior (2K+ followers) | 250 - 400€ | 4 threads + engagement daily |
-
-#### Niveau Community (20-30 personnes)
-
-| Profil | Rémunération/mois | Attendus |
-|--------|-------------------|----------|
-| Community Actif | 100 - 150€ | 12 posts/mois + modération |
-| Community Standard | 50 - 100€ | 8 posts/mois + engagement |
-| Community Débutant | 30 - 50€ | 4 posts/mois + apprentissage |
-
-### 1.3 Exemple de Structure d'Équipe (Budget 8 500€)
-
-| Niveau | Nombre | Rému. Moyenne | Total |
-|--------|--------|---------------|-------|
-| Lead Senior | 2 | 700€ | 1 400€ |
-| Lead Standard | 3 | 500€ | 1 500€ |
-| Lead Junior | 3 | 300€ | 900€ |
-| Community Actif | 8 | 125€ | 1 000€ |
-| Community Standard | 12 | 75€ | 900€ |
-| Community Débutant | 10 | 40€ | 400€ |
-| **TOTAL** | **38 pers.** | - | **6 100€** |
-
-*Reste pour bonus performance : 700€/mois*
-
-### 1.4 Système de Bonus Performance
-
-**Bonus mensuels distribués aux meilleurs performers :**
-
-| Performance | Bonus |
-|-------------|-------|
-| Meilleur thread du mois (engagement) | +100€ |
-| Meilleure vidéo du mois | +150€ |
-| Top 3 Community (points) | +50€ chacun |
-| Objectif personnel dépassé de +50% | +25% de la rému. base |
-
----
-
-## 2. Roadmap Opérationnelle
-
-### Phase 1 : Structuration (Semaines 1-2)
-
-**Objectif :** Poser les fondations du programme
-
-**Infrastructure existante :**
-- ✅ Discord projet Naoris (global) avec canaux par pays (#france, #spain, #nigeria, #usa)
+- ✅ Discord projet Naoris (global) avec canaux #france, #spain, #nigeria, #usa
 - ✅ Telegram projet Naoris (global)
 - ✅ Discord ambassadeurs (multi-pays)
 
-| Action | Responsable | Deadline | Livrable |
-|--------|-------------|----------|----------|
-| Structurer les canaux FR sur Discord ambassadeurs | Équipe FR | J+3 | Canaux organisés (annonces-fr, ressources-fr, missions-fr) |
-| Rédiger guide ambassadeur FR | Équipe FR | J+7 | PDF 10 pages max (adapté au marché français) |
-| Créer formulaire candidature FR | Équipe FR | J+5 | Typeform/Google Form en français |
-| Définir charte graphique | Équipe globale | J+7 | Kit Canva + guidelines (commun à tous les pays) |
-| Formaliser contrats KOL existants FR | Équipe FR | J+10 | Accords signés |
+---
 
-**Budget Phase 1 :** ~500€ (outils, setup)
+## 2. Répartition Budgétaire
+
+### 2.1 Répartition par Pays
+
+**Budget 7 000€/mois :**
+
+| Pays | % Budget | Montant | Ambassadeurs |
+|------|----------|---------|--------------|
+| 🇫🇷 France | 30% | 2 100€ | 3-5 |
+| 🇪🇸 Espagne | 27% | 1 890€ | 3-5 |
+| 🇳🇬 Nigéria | 23% | 1 610€ | 3-5 |
+| 🇺🇸 USA | 20% | 1 400€ | 3-5 |
+| **TOTAL** | **100%** | **7 000€** | **12-20** |
+
+**Budget 10 000€/mois :**
+
+| Pays | % Budget | Montant | Ambassadeurs |
+|------|----------|---------|--------------|
+| 🇫🇷 France | 30% | 3 000€ | 3-5 |
+| 🇪🇸 Espagne | 27% | 2 700€ | 3-5 |
+| 🇳🇬 Nigéria | 23% | 2 300€ | 3-5 |
+| 🇺🇸 USA | 20% | 2 000€ | 3-5 |
+| **TOTAL** | **100%** | **10 000€** | **12-20** |
+
+### 2.2 Répartition par Poste (par pays)
+
+| Poste | % du Budget Pays |
+|-------|------------------|
+| Rémunération ambassadeurs | 90% |
+| Contenu/outils/goodies | 10% |
 
 ---
 
-### Phase 2 : Recrutement Vague 1 (Semaines 3-4)
+## 3. Grille de Rémunération
 
-**Objectif :** Recruter les premiers ambassadeurs
+### 3.1 Structure par Pays (Budget 7 000€)
 
-| Action | Objectif Quantitatif |
-|--------|---------------------|
-| Intégrer KOL existants comme Leads | 3-5 personnes |
-| Recruter nouveaux Leads | 3-5 personnes |
-| Recruter Community | 15-20 personnes |
-| **Total Vague 1** | **20-30 ambassadeurs** |
+Avec 3-5 ambassadeurs par pays et un budget plus concentré, les rémunérations sont plus attractives.
 
-**Canaux de recrutement :**
-- Communauté Naoris existante (Discord/Telegram global)
-- Annonce sur Twitter/X officiel
-- Bouche-à-oreille via KOL existants
-- Groupes Telegram crypto français
+**🇫🇷 France (2 100€) :**
 
-**Process de recrutement :**
-1. Candidature en ligne (48h review)
-2. Vérification profils sociaux
-3. Call 15 min pour Leads / Message pour Community
-4. Onboarding 3 jours (guide + accès + premier post supervisé)
+| Rôle | Nb | Rému/mois | Total |
+|------|-----|-----------|-------|
+| Lead (KOL existant ou top performer) | 1 | 500-600€ | 550€ |
+| Ambassadeur Senior | 2 | 350-450€ | 800€ |
+| Ambassadeur Junior | 2 | 200-300€ | 500€ |
+| **Total** | **5** | - | **1 850€** |
+| Réserve contenu/bonus | - | - | 250€ |
 
-**Critères de sélection :**
+**🇪🇸 Espagne (1 890€) :**
 
-| Critère | Lead | Community |
-|---------|------|-----------|
-| Followers minimum | 2 000 | 300 |
-| Engagement rate | >3% | >2% |
-| Contenu existant | Oui, qualité | Optionnel |
-| Disponibilité/semaine | 10h+ | 5h+ |
-| Test (1 post Naoris) | Obligatoire | Recommandé |
+| Rôle | Nb | Rému/mois | Total |
+|------|-----|-----------|-------|
+| Lead | 1 | 500-600€ | 550€ |
+| Ambassadeur Senior | 1-2 | 350-450€ | 400€ |
+| Ambassadeur Junior | 2 | 200-300€ | 500€ |
+| **Total** | **4-5** | - | **1 450€** |
+| Réserve contenu/bonus | - | - | 240€ |
 
-**Budget Phase 2 :** ~4 000€ (premier mois rému. partielle + onboarding)
+**🇳🇬 Nigéria (1 610€) :**
 
----
+| Rôle | Nb | Rému/mois | Total |
+|------|-----|-----------|-------|
+| Lead | 1 | 450-550€ | 500€ |
+| Ambassadeur Senior | 1 | 350-400€ | 375€ |
+| Ambassadeur Junior | 2 | 200-250€ | 450€ |
+| **Total** | **4** | - | **1 325€** |
+| Réserve contenu/bonus | - | - | 185€ |
 
-### Phase 3 : Lancement & Premiers KPIs (Semaines 5-8)
+**🇺🇸 USA (1 400€) :**
 
-**Objectif :** Démarrer la machine à contenu et mesurer
+| Rôle | Nb | Rému/mois | Total |
+|------|-----|-----------|-------|
+| Lead | 1 | 450-550€ | 500€ |
+| Ambassadeur Senior | 1 | 300-400€ | 350€ |
+| Ambassadeur Junior | 1-2 | 200-250€ | 400€ |
+| **Total** | **3-4** | - | **1 250€** |
+| Réserve contenu/bonus | - | - | 150€ |
 
-#### Objectifs Twitter/X - Mois 1
+### 3.2 Récap Rémunérations
 
-| Métrique | Objectif Collectif |
-|----------|-------------------|
-| Impressions totales | 500 000 |
-| Engagements totaux | 15 000 |
-| Nouveaux followers (comptes ambassadeurs) | +2 000 |
-| Mentions #NaorisProtocol | 300 |
-| Threads publiés | 40 |
-| Vidéos/clips publiés | 8 |
-
-#### Objectifs Communauté - Mois 1
-
-| Métrique | Objectif |
-|----------|----------|
-| Nouveaux membres Discord global (via ambassadeurs FR) | +1 500 |
-| Nouveaux membres Telegram global (via ambassadeurs FR) | +1 000 |
-| Messages/jour canal #france Discord | 50+ |
-| Participants AMA francophone | 50+ |
-
-#### Actions Clés
-
-| Semaine | Focus | Actions |
-|---------|-------|---------|
-| S5 | Lancement officiel | Annonce programme, premiers posts coordonnés |
-| S6 | Montée en puissance | 1er Twitter Space FR, raid coordonné |
-| S7 | Contenu éducatif | Série threads "Comprendre Naoris" |
-| S8 | Premier bilan | Review KPIs, ajustements, recrutement vague 2 |
-
-**Budget Phase 3 :** ~8 500€ (1 mois plein)
+| Rôle | Rémunération | Attendus |
+|------|--------------|----------|
+| **Lead** | 450 - 600€ | 2 vidéos + 10 threads/mois, coordination équipe pays |
+| **Senior** | 300 - 450€ | 1 vidéo + 8 threads/mois, présence daily |
+| **Junior** | 200 - 300€ | 6 threads/mois, engagement + apprentissage |
 
 ---
 
-### Phase 4 : Optimisation & Croissance (Mois 2-3)
+## 4. Objectifs par Pays (Identiques)
 
-#### Objectifs Twitter/X - Mois 2
+### 4.1 Objectifs Twitter/X
 
-| Métrique | Objectif | Croissance vs M1 |
-|----------|----------|------------------|
-| Impressions totales | 1 000 000 | +100% |
-| Engagements totaux | 35 000 | +133% |
-| Nouveaux followers | +4 000 | +100% |
-| Mentions #NaorisProtocol | 600 | +100% |
-| Threads publiés | 60 | +50% |
+| Période | Impressions | Engagements | Threads | Vidéos |
+|---------|-------------|-------------|---------|--------|
+| Mois 1 | 100 000 | 3 000 | 12 | 2 |
+| Mois 2 | 200 000 | 7 000 | 20 | 4 |
+| Mois 3 | 350 000 | 12 000 | 28 | 6 |
+| Mois 6 | 700 000 | 25 000 | 40 | 10 |
+| Mois 12 | 1 500 000 | 50 000 | 50 | 15 |
 
-#### Objectifs Twitter/X - Mois 3
+### 4.2 Objectifs Communauté
 
-| Métrique | Objectif | Croissance vs M2 |
-|----------|----------|------------------|
-| Impressions totales | 1 800 000 | +80% |
-| Engagements totaux | 60 000 | +71% |
-| Nouveaux followers | +6 000 | +50% |
-| Mentions #NaorisProtocol | 1 000 | +67% |
+| Période | Nouveaux membres Discord (via pays) | Mentions #NaorisProtocol |
+|---------|-------------------------------------|--------------------------|
+| Mois 1 | +300 | 80 |
+| Mois 2 | +600 | 150 |
+| Mois 3 | +1 000 | 250 |
+| Mois 6 | +2 500 | 500 |
+| Mois 12 | +5 000 | 1 000 |
 
-#### Objectifs Communauté - Fin Mois 3
+### 4.3 Objectifs Consolidés (4 pays)
 
-| Métrique | Objectif |
-|----------|----------|
-| Nouveaux membres Discord global (via FR) | +5 000 |
-| Nouveaux membres Telegram global (via FR) | +3 500 |
-| Ambassadeurs actifs | 40-45 |
+| Période | Impressions Totales | Ambassadeurs | Nouveaux Membres Discord |
+|---------|---------------------|--------------|-------------------------|
+| Mois 1 | 400 000 | 12-16 | +1 200 |
+| Mois 2 | 800 000 | 14-18 | +2 400 |
+| Mois 3 | 1 400 000 | 16-20 | +4 000 |
+| Mois 6 | 2 800 000 | 16-20 | +10 000 |
+| Mois 12 | 6 000 000 | 16-20 | +20 000 |
 
-#### Actions Clés
+---
 
-| Mois | Focus |
-|------|-------|
-| M2 | Recrutement vague 2 (+10-15 ambassadeurs), premier contenu viral ciblé |
-| M3 | Structuration équipe régionale, partenariats micro-influenceurs |
+## 5. Roadmap Opérationnelle
 
-**Budget Phase 4 :** ~17 000€ (2 mois)
+### Phase 1 : Structuration (Semaines 1-2)
+
+| Action | Pays | Deadline |
+|--------|------|----------|
+| Structurer canaux par pays sur Discord ambassadeurs | Tous | J+3 |
+| Créer formulaires candidature (FR, ES, EN) | Tous | J+5 |
+| Rédiger guide ambassadeur (3 versions) | Tous | J+7 |
+| Définir charte graphique globale | Global | J+7 |
+| Identifier candidats potentiels | Tous | J+10 |
+
+---
+
+### Phase 2 : Recrutement (Semaines 3-4)
+
+**Objectif : 3-4 ambassadeurs par pays**
+
+| Pays | Lead | Senior | Junior | Total V1 |
+|------|------|--------|--------|----------|
+| 🇫🇷 France | 1 | 1-2 | 1 | 3-4 |
+| 🇪🇸 Espagne | 1 | 1 | 1 | 3 |
+| 🇳🇬 Nigéria | 1 | 1 | 1 | 3 |
+| 🇺🇸 USA | 1 | 0-1 | 1 | 2-3 |
+| **TOTAL** | **4** | **3-5** | **4** | **11-13** |
+
+**Process :**
+1. Candidatures ouvertes (5 jours)
+2. Review et sélection (3 jours)
+3. Entretiens Leads (call 20 min)
+4. Onboarding (3 jours)
+
+---
+
+### Phase 3 : Lancement (Mois 1)
+
+| Semaine | Action | Détail |
+|---------|--------|--------|
+| S1 | Annonce officielle | Posts coordonnés 4 pays, même jour |
+| S2 | Premier contenu | Chaque ambassadeur publie son 1er thread |
+| S3 | Twitter Spaces | 1 Space FR, 1 Space ES, 1 Space EN |
+| S4 | Bilan M1 | Review KPIs, ajustements |
+
+**Objectifs Mois 1 :**
+- 100K impressions par pays (400K total)
+- 3-4 ambassadeurs actifs par pays (12-16 total)
+- +300 membres Discord par pays (+1 200 total)
+
+---
+
+### Phase 4 : Montée en Puissance (Mois 2-3)
+
+| Action | Détail |
+|--------|--------|
+| Compléter équipes | Atteindre 4-5 ambassadeurs par pays si besoin |
+| Intensifier contenu | Objectif : 1 thread/jour par pays minimum |
+| Raids coordonnés | 1 raid multi-pays par semaine |
+| Twitter Spaces réguliers | 2 par mois par langue |
+
+**Objectifs Fin Mois 3 :**
+- 350K impressions par pays (1.4M total)
+- 4-5 ambassadeurs actifs par pays (16-20 total)
+- +1 000 membres Discord par pays (+4 000 total)
 
 ---
 
 ### Phase 5 : Consolidation (Mois 4-6)
 
-#### Objectifs Twitter/X - Fin Mois 6
+| Action | Détail |
+|--------|--------|
+| Stabiliser équipes | Remplacer inactifs si nécessaire |
+| Optimiser performance | Focus sur contenu qui marche |
+| Identifier top performers | Bonus et augmentations |
+| Événements (optionnel) | Si budget le permet |
 
-| Métrique | Objectif |
-|----------|----------|
-| Impressions mensuelles | 3 000 000+ |
-| Engagements mensuels | 100 000+ |
-| Followers cumulés (ambassadeurs actifs) | 150 000+ |
-| Mentions #NaorisProtocol/mois | 2 000+ |
-
-#### Objectifs Communauté - Fin Mois 6
-
-| Métrique | Objectif |
-|----------|----------|
-| Nouveaux membres Discord global (via FR) | +12 000 |
-| Nouveaux membres Telegram global (via FR) | +8 000 |
-| Ambassadeurs actifs | 50 |
-| Wallets français | 3 000 |
-
-#### Actions Clés
-
-- Lancement programme de parrainage (ambassadeurs recrutent ambassadeurs)
-- Premier meetup physique (budget événement si disponible)
-- Création de contenus premium (guides PDF, mini-cours)
-- Début prospection partenariats médias
-
-**Budget Phase 5 :** ~25 500€ (3 mois)
+**Objectifs Fin Mois 6 :**
+- 700K impressions par pays (2.8M total)
+- 4-5 ambassadeurs actifs par pays
+- +2 500 membres Discord par pays (+10 000 total)
 
 ---
 
 ### Phase 6 : Scale (Mois 7-12)
 
-#### Objectifs Fin d'Année
-
-| Métrique | Objectif |
-|----------|----------|
-| Impressions mensuelles | 5 000 000+ |
-| Nouveaux membres Discord global (via FR) | +25 000 |
-| Nouveaux membres Telegram global (via FR) | +15 000 |
-| Ambassadeurs actifs | 60-70 |
-| Wallets français | 5 000+ |
-
-**Budget Phase 6 :** ~51 000€ (6 mois)
+**Objectifs Fin Année :**
+- 1.5M impressions par pays (6M total)
+- 4-5 ambassadeurs actifs par pays (16-20 total)
+- +5 000 membres Discord par pays (+20 000 total)
 
 ---
 
-## 3. Suivi des KPIs
+## 6. Attendus par Rôle
 
-### 3.1 Dashboard Hebdomadaire
+### 6.1 Lead (1 par pays)
 
-**Métriques à tracker chaque semaine :**
+| Attendu | Fréquence |
+|---------|-----------|
+| Threads Twitter | 10/mois minimum |
+| Vidéos (YouTube, TikTok, Shorts) | 2/mois minimum |
+| Twitter Spaces (host ou co-host) | 2/mois |
+| Coordination équipe pays | Continu |
+| Reporting hebdo | Chaque lundi |
+| Présence Discord | Daily |
 
-| Catégorie | Métriques |
-|-----------|-----------|
-| Twitter/X | Impressions, engagements, followers, mentions |
-| Discord global | Nouveaux membres (attribués aux ambassadeurs FR), activité canal #france |
-| Telegram global | Nouveaux membres (attribués aux ambassadeurs FR) |
-| Ambassadeurs | Posts publiés, engagement moyen, activité |
+### 6.2 Senior (1-2 par pays)
 
-### 3.2 Calcul du Score Ambassadeur
+| Attendu | Fréquence |
+|---------|-----------|
+| Threads Twitter | 8/mois minimum |
+| Vidéos | 1/mois minimum |
+| Participation Twitter Spaces | 2/mois |
+| Engagement communauté | Daily |
+| Support aux Juniors | Continu |
 
-**Score mensuel = Points d'activité + Points d'engagement**
+### 6.3 Junior (1-2 par pays)
 
-| Action | Points |
-|--------|--------|
-| Tweet simple | 2 pts |
-| Thread (3+ tweets) | 10 pts |
-| Vidéo courte (<1 min) | 15 pts |
-| Vidéo longue (>3 min) | 30 pts |
-| Article/blog post | 20 pts |
-| Participation AMA | 10 pts |
-| Modération Discord (1h) | 5 pts |
-
-| Engagement obtenu | Bonus |
-|-------------------|-------|
-| 100+ likes sur un post | +5 pts |
-| 500+ likes | +15 pts |
-| 1000+ likes | +30 pts |
-| 10K+ impressions | +10 pts |
-| 50K+ impressions | +25 pts |
-
-**Seuils de performance :**
-
-| Score Mensuel | Statut | Conséquence |
-|---------------|--------|-------------|
-| <30 pts | Inactif | Warning, risque exclusion |
-| 30-60 pts | Minimum | Rému. base maintenue |
-| 60-100 pts | Actif | Rému. base + petit bonus |
-| 100-150 pts | Très actif | Bonus performance |
-| 150+ pts | Top performer | Gros bonus + promotion possible |
-
-### 3.3 Reporting Mensuel
-
-**Rapport à produire chaque fin de mois :**
-
-1. **Performance globale**
-   - Total impressions vs objectif
-   - Total engagements vs objectif
-   - Croissance communauté vs objectif
-
-2. **Performance individuelle**
-   - Classement des 10 meilleurs ambassadeurs
-   - Liste des ambassadeurs sous le seuil minimum
-   - Évolution par ambassadeur vs mois précédent
-
-3. **Analyse qualitative**
-   - Meilleurs contenus du mois
-   - Contenus à améliorer
-   - Feedback communauté
-
-4. **Budget**
-   - Dépenses réelles vs prévues
-   - Ajustements pour mois suivant
+| Attendu | Fréquence |
+|---------|-----------|
+| Threads Twitter | 6/mois minimum |
+| Engagement (likes, RT, replies) | Daily |
+| Participation Twitter Spaces | 1/mois |
+| Modération Discord | 2-3h/semaine |
+| Apprentissage et progression | Continu |
 
 ---
 
-## 4. Contenus & Calendrier Type
+## 7. Système de Bonus
 
-### 4.1 Calendrier Hebdomadaire Type
+### 7.1 Bonus Performance Mensuel
 
-| Jour | Type de Contenu | Responsable |
-|------|-----------------|-------------|
-| Lundi | Thread éducatif #1 | Lead 1 |
-| Mardi | Infographie / Visuel | Community (coordonné) |
-| Mercredi | Thread éducatif #2 | Lead 2 |
-| Jeudi | Actualité Naoris | Équipe (relayé par tous) |
-| Vendredi | Thread éducatif #3 ou vidéo | Lead 3 |
-| Samedi | Contenu communautaire (meme, quiz) | Community |
-| Dimanche | Récap semaine / Engagement | Tous |
+| Performance | Bonus |
+|-------------|-------|
+| Meilleur thread du mois (par pays) | +75€ |
+| Meilleure vidéo du mois (par pays) | +100€ |
+| Objectifs dépassés de +50% | +20% rému. base |
+| Top performer global (tous pays) | +150€ |
 
-### 4.2 Thèmes de Contenu Prioritaires
+### 7.2 Malus / Exclusion
 
-**Mois 1-2 : Éducation de base**
-- Qu'est-ce que la menace quantique ?
-- Comment Naoris protège les blockchains
-- Différence Naoris vs solutions traditionnelles
-- Tutoriel : premiers pas avec Naoris
-
-**Mois 3-4 : Approfondissement**
-- Architecture technique simplifiée
-- Cas d'usage concrets (DeFi, entreprises, IoT)
-- Tokenomics expliqués
-- Roadmap et avancées du projet
-
-**Mois 5-6 : Social proof & actualités**
-- Partenariats annoncés
-- Métriques du réseau
-- Témoignages utilisateurs
-- Comparatifs avec concurrents
-
-### 4.3 Formats de Contenu par Niveau
-
-| Niveau | Formats Attendus |
-|--------|------------------|
-| Lead Senior | Vidéos YouTube, threads longs, articles |
-| Lead Standard | Threads, vidéos courtes, Twitter Spaces |
-| Lead Junior | Threads, engagement, co-création |
-| Community | Posts simples, retweets commentés, memes |
+| Situation | Conséquence |
+|-----------|-------------|
+| <50% des attendus sur 1 mois | Warning |
+| <50% des attendus 2 mois consécutifs | Réduction 50% ou exclusion |
+| Inactivité 2 semaines sans prévenir | Exclusion |
+| Contenu problématique | Exclusion immédiate |
 
 ---
 
-## 5. Outils de Gestion
+## 8. Calendrier de Contenu
 
-### 5.1 Stack Technique
+### 8.1 Planning Hebdomadaire (par pays)
 
-| Outil | Usage | Coût |
-|-------|-------|------|
-| Notion | Gestion programme, docs, tracking | 0€ |
-| Google Sheets | Suivi KPIs, scores, paiements | 0€ |
-| Discord ambassadeurs | Coordination équipe multi-pays (existant) | 0€ |
-| Discord global Naoris | Communauté avec canaux par pays (existant) | 0€ |
-| Telegram global Naoris | Communauté (existant) | 0€ |
-| Canva Pro | Création visuels (partagé entre pays) | 12€/mois |
-| TweetDeck/Buffer | Planification posts | 0-15€/mois |
-| Typeform | Candidatures | 0€ (gratuit) |
+| Jour | Contenu | Responsable |
+|------|---------|-------------|
+| Lundi | Thread éducatif | Lead |
+| Mardi | Engagement + RT | Tous |
+| Mercredi | Thread #2 | Senior |
+| Jeudi | Actualité Naoris (traduite) | Junior |
+| Vendredi | Vidéo ou Thread #3 | Lead ou Senior |
+| Samedi | Contenu libre / Meme | Junior |
+| Dimanche | Récap semaine | Lead |
 
-**Total outils France : ~30€/mois**
+### 8.2 Coordination Multi-Pays
 
-### 5.2 Template Suivi Ambassadeur (Google Sheets)
-
-| Colonne | Description |
-|---------|-------------|
-| Nom/Pseudo | Identifiant |
-| Niveau | Lead/Community |
-| Twitter | Lien profil |
-| Followers | Nombre actuel |
-| Rému. Base | Montant mensuel |
-| Score M1, M2... | Points mensuels |
-| Bonus | Montant bonus |
-| Total Payé | Cumul |
-| Statut | Actif/Warning/Inactif |
+- **Annonces majeures :** Posts simultanés (FR, ES, EN)
+- **Raids :** 1/semaine, tous pays en même temps
+- **Traductions :** Contenus clés traduits sous 24h
 
 ---
 
-## 6. Processus Clés
+## 9. Suivi et Reporting
 
-### 6.1 Onboarding Nouvel Ambassadeur
+### 9.1 Dashboard Hebdomadaire
 
-**Jour 1 :**
-- Accès Discord ambassadeurs (rôle attribué)
-- Envoi guide ambassadeur PDF
-- Ajout au groupe WhatsApp/Telegram coordination (si existant)
+| Métrique | 🇫🇷 FR | 🇪🇸 ES | 🇳🇬 NG | 🇺🇸 US | Total |
+|----------|--------|--------|--------|--------|-------|
+| Impressions | | | | | |
+| Engagements | | | | | |
+| Threads publiés | | | | | |
+| Vidéos publiées | | | | | |
+| Nouveaux membres Discord | | | | | |
 
-**Jour 2 :**
-- Call de bienvenue (15 min) ou message vocal
-- Présentation des objectifs et attentes
-- Attribution du premier contenu à créer
+### 9.2 Reporting Mensuel
 
-**Jour 3-5 :**
-- Création du premier contenu (supervisé)
-- Feedback et ajustements
-- Validation → ambassadeur officiellement actif
-
-### 6.2 Paiement Mensuel
-
-**Calendrier :**
-- J-5 : Calcul des scores et bonus
-- J-3 : Validation par responsable programme
-- J-1 : Communication des montants aux ambassadeurs
-- J : Paiement (virement ou crypto selon préférence)
-
-**Modes de paiement :**
-- Virement bancaire (EUR)
-- Stablecoins (USDT/USDC)
-- Tokens $NAORIS (si préféré, avec bonus +10%)
-
-### 6.3 Gestion des Sous-Performers
-
-| Situation | Action |
-|-----------|--------|
-| 1 mois sous le seuil | Warning écrit + call de recadrage |
-| 2 mois consécutifs sous le seuil | Réduction rému. 50% ou exclusion |
-| Inactivité totale 2 semaines | Contact direct, si pas de réponse = exclusion |
-| Contenu problématique | Warning immédiat, exclusion si récidive |
+- Performance par pays vs objectifs
+- Performance par ambassadeur
+- Budget consommé
+- Ajustements pour mois suivant
 
 ---
 
-## 7. Récapitulatif Timeline
-
-| Période | Phase | Ambassadeurs | Impressions/mois | Nouveaux membres Discord (via FR) |
-|---------|-------|--------------|------------------|----------------------------------|
-| S1-S2 | Structuration | 0 | - | - |
-| S3-S4 | Recrutement V1 | 20-30 | - | +500 |
-| M1 | Lancement | 25-35 | 500K | +1 500 |
-| M2 | Croissance | 35-40 | 1M | +3 000 |
-| M3 | Croissance | 40-45 | 1.8M | +5 000 |
-| M4-M6 | Consolidation | 50 | 3M | +12 000 |
-| M7-M12 | Scale | 60-70 | 5M+ | +25 000 |
-
----
-
-## 8. Checklist de Lancement (France)
+## 10. Checklist de Lancement
 
 ### Semaine 1
-- [ ] Valider budget mensuel définitif (France)
-- [x] Discord ambassadeurs créé (multi-pays)
-- [ ] Structurer canaux FR sur Discord ambassadeurs
-- [ ] Créer formulaire candidature FR
-- [ ] Contacter KOL existants FR pour formaliser rôle Lead
-- [ ] Synchronisation avec équipes Espagne, Nigéria, USA sur planning
+- [ ] Valider budget mensuel définitif
+- [x] Discord ambassadeurs créé
+- [ ] Structurer canaux par pays
+- [ ] Créer formulaires candidature (FR, ES, EN)
 
 ### Semaine 2
-- [ ] Finaliser guide ambassadeur FR
-- [ ] Créer kit graphique (templates Canva - partagé avec autres pays)
-- [ ] Mettre en place Google Sheets de suivi France
-- [ ] Lancer annonce recrutement France
+- [ ] Finaliser guides ambassadeur
+- [ ] Créer kit graphique
+- [ ] Mettre en place Google Sheets de suivi
+- [ ] Ouvrir recrutement
 
 ### Semaine 3
-- [ ] Sélectionner candidats vague 1
-- [ ] Onboarder premiers ambassadeurs
-- [ ] Planifier premiers contenus
+- [ ] Sélectionner 3-4 ambassadeurs par pays
+- [ ] Entretiens Leads
+- [ ] Onboarding
 
 ### Semaine 4
-- [ ] Tous ambassadeurs V1 actifs
-- [ ] Premier Twitter Space FR
-- [ ] Mesurer premiers KPIs
+- [ ] Tous ambassadeurs actifs
+- [ ] Premiers contenus publiés
+- [ ] Premiers Twitter Spaces
 
 ---
 
-## 9. Synergies Multi-Pays
+## 11. Récapitulatif
 
-### Ressources Partagées
-
-| Ressource | Gestion |
-|-----------|---------|
-| Charte graphique / Kit Canva | Globale (tous pays) |
-| Visuels génériques Naoris | Globale |
-| Annonces projet (traduits) | Globale → adaptation locale |
-| Discord ambassadeurs | Multi-pays avec canaux par langue |
-| Système de scoring | Commun (adapté par pays si besoin) |
-
-### Coordination
-
-- Call de sync hebdo entre leads de chaque pays (optionnel)
-- Partage des best practices entre équipes
-- Campagnes coordonnées lors d'annonces majeures (raids multi-pays)
-- KPIs consolidés au niveau global + détail par pays
-
-### Spécificités France
-
-- Langue : Français
-- Événements cibles : Proof of Talk, VivaTech, Surfin' Bitcoin
-- Fuseaux horaires : CET (UTC+1)
-- Particularités marché : Fort intérêt institutionnel, régulation PSAN, communauté crypto mature
+| Élément | Détail |
+|---------|--------|
+| Budget mensuel | 7 000 - 10 000€ |
+| Pays | France, Espagne, Nigéria, USA |
+| Ambassadeurs par pays | 3-5 |
+| Ambassadeurs total | 12-20 |
+| Rému. Lead | 450-600€/mois |
+| Rému. Senior | 300-450€/mois |
+| Rému. Junior | 200-300€/mois |
+| Objectif M3 (total) | 1.4M impressions, +4K Discord |
+| Objectif M12 (total) | 6M impressions, +20K Discord |
 
 ---
 
-*Document opérationnel - Naoris Protocol France 2026*
+*Document opérationnel - Programme Ambassadeur Naoris Protocol 2026*
+*12-20 ambassadeurs | 4 pays | Budget 7-10K€/mois*
